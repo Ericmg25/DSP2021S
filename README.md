@@ -10,5 +10,5 @@
 **Level**: Undergraduate Freshman   
 **Position Title**: Student      
 **Course Webpage**: https://www.cdslab.org/DSP2021S/  
-**Photo**   
+**Photo**:   
 ![this is a photo of Eric Garcia](images/Facebook%20pic.jpg)
