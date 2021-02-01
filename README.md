@@ -16,14 +16,17 @@
 #       Description of the project’s content    
 This repository contains my homework, quizzes, and virtually every effort that I have made for Data 1401. The structure of the project is the following:
 
-homework: https://github.com/Ericmg25/DSP2021S/blob/main/Homework
++   [Homework](https://github.com/Ericmg25/DSP2021S/blob/main/Homework)  
 This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.
 
-quiz: https://github.com/Ericmg25/DSP2021S/blob/main/Quiz
++   [Quiz](https://github.com/Ericmg25/DSP2021S/blob/main/Quiz)
 This directory contains all my quiz submissions, each of which is a folder properly named with quiz number, containing the quiz submission.
 
-exam: https://github.com/Ericmg25/DSP2021S/blob/main/Exam
++   [exam](https://github.com/Ericmg25/DSP2021S/blob/main/Exam)
 This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
+
+The good thing about science is that it's true whether or not you believe in it.  
+-Neil deGrasse Tyson
 
 For questions and troubleshooting, please contact:
 
