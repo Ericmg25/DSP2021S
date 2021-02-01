@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-# DSP2021S
-This is a new change
 
-saf
-ddasffdsa
-[Amir Shahmoradi](https://www.cdslab.org)  
-<a href="www.cdslab.org">Amir Shahmoradi</a>  
-=======
 
 # DSP2021S - Data Science with Python Spring 2021
 
@@ -18,5 +10,4 @@ ddasffdsa
 **Level**: Undergraduate Freshman   
 **Position Title**: Student      
 **Course Webpage**: https://www.cdslab.org/DSP2021S/  
-**Photo** !(https://github.com/Ericmg25/DSP2021S/blob/main/football%20pic.jpg?raw=true)
->>>>>>> 7f5b7c26d7edcf8b0c5287aecf52a5f551dd1c25
+**Photo** !(https://github.com/Ericmg25/DSP2021S/blob/main/images/Facebook%20pic.jpg)
