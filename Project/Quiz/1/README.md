@@ -18,5 +18,5 @@ git log
 **Question 9**  
  git branch  
   dev
-* main
+* main  
   test1
