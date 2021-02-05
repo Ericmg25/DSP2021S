@@ -22,10 +22,10 @@ This directory contains all my homework submissions, each of which is a folder p
 +   [Quiz](https://github.com/Ericmg25/DSP2021S/tree/main/Quiz)  
 This directory contains all my quiz submissions, each of which is a folder properly named with quiz number, containing the quiz submission.
 
-+   [Exam](https://github.com/Ericmg25/DSP2021S/tree/main/Exam)  
++   [Exam](https://github.com/Ericmg25/DSP2021S/tree/main/Test)  
 This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
 
-"The good thing about science is that it's true whether or not you believe in it."  
+> "The good thing about science is that it's true whether or not you believe in it."      
 -Neil deGrasse Tyson
 
 For questions and troubleshooting, please contact:
