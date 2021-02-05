@@ -16,3 +16,7 @@ git branch dev; git checkout dev
 **Question 8**  
 git log  
 **Question 9**  
+ git branch  
+  dev
+* main  
+  test1
