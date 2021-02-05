@@ -1,6 +1,6 @@
 ##  Quiz 1  
 **Question 1**  
-
+The generations are simply known as the first, second, and third generation. The first generation could only be worked on by one person and allowed no sharing. The third generation allows for branching and sharing of repositories.  
 **Question 2**  
 Git belongs to the current and third generation  
 **Question 3**  
