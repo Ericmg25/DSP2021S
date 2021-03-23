@@ -1,0 +1,23 @@
+•	I expected the problem to still divide by 2, but that was not the case and came up with an error
+•	This version worked and divided the 1 by 2
+•	I cannot get this to run because “int8” is not defined.
+•	Same problem above. I found “int” in the examples, but int8 does not work
+•	I expected this to not run as anything but instead got 7 as the numbers added
+•	I expected this to be 25 because of the square but instead got -25
+•	I xpected this one to be -3 but instead got -7
+•	This changed to 25 instead of staying at -25
+•	I expected this to go from left to right in operations and got 7
+•	This also would go from left to right and got 30
+Int16 = np.iinfo(np.int16) iinfo(min=-32768, max=32767, dtype=int16)
+Int 32 = np.iinfo(np.int32) iinfo(min=-2147483648, max=2147483647, dtype=int32)
+value, variable, type, syntax error
+This code results in a syntax error
+Line 1, 2, and 3 give a, b, and c a value of 1, x, and true respectively
+I am not sure what the command “who a b c” does
+Line 5 looks to see if you’re a and c are the same.
+Line 6 adds both
+d and e are both lists and f is a nested list 
+g combines the both and h is connected to I making a list.
+Class(a) is an invalid syntax
+2. part A
+These id’s allow for each variable that is listed to have their unique id that is different from the rest.
